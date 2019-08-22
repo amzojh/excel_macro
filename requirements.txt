@@ -1,0 +1,9 @@
+xlwings
+pandas
+numpy
+pywin32
+pyautogui
+selenium
+openpyxl
+matplotlib
+seaborn
